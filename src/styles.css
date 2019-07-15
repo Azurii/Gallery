@@ -1,0 +1,23 @@
+th {
+  cursor: pointer;
+}
+
+th:hover {
+  background: yellow;
+}
+
+a {
+  width: 100px;
+  height: 100px;
+  float: left;
+  padding: 3px;
+  margin: 2px;
+  border: solid 1px #ccc;
+}
+
+#largeImg {
+  border: solid 1px #ccc;
+  width: 550px;
+  height: 400px;
+  padding: 5px;
+}
